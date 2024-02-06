@@ -1,4 +1,4 @@
-# Biodata
+# About me
 
 ## Personal Information
 
@@ -10,21 +10,14 @@
 
 ## Education
 
-### University Name (Year - Year)
+### High School Name 
 
-- Degree: Your Degree
-- Major: Your Major
-- GPA: Your GPA (if applicable)
-
-### High School Name (Year - Year)
-
-- High School Diploma
+- Science Al-Quran JUnior High School Yogyakarta
+- Science Al-Quran Senior High School Yogyakarta
 
 ## Skills
 
-- Programming Languages: List of languages (e.g., Python, Java)
-- Soft Skills: List of soft skills (e.g., Communication, Teamwork)
-- Other Skills: Any other relevant skills
+-writing story
 
 ## Work Experience
 
